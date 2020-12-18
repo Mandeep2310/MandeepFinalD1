@@ -1,0 +1,2 @@
+include ':MandeepFinalD2'
+rootProject.name = "MandeepFinalD1"
